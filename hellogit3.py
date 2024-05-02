@@ -1,1 +1,2 @@
 print("tatakae")
+print("tatakae")
