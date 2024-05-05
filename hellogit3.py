@@ -1,2 +1,2 @@
 print("tatakae")
-print("tatakae")
+print("tatakae v2")
